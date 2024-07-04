@@ -1,20 +1,25 @@
 <div id="header" align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU1aGdleGt2c3c2am5xeHBnZ203b20wdm5hNGRneWUxdnp3anBvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, im Martin Moreno</h1>
-    <h3 align="center">A passionate fullstack web developer from México. I like React.</h3>
+   <h3>
+👨‍💻 Computer Engineer | Web  developer | Passionate about Technology</h3>
+    <h3 align="center">🚀 I am Martin Giovani Moreno Chavez, a computer engineer with a approach on web development, databases and communication networks. I love building innovative solutions that merge functionality and design.</h3>
 </div>
 ---
 
 ### 👨‍💻 About Me :
 
-- 👨🏽‍💻 I am a computer engineer
+- 👨🏽‍💻 **Frontend:** HTML5, CSS3, JavaScript,React.js
+
+- 🤓 **Backend:** Java, Node.js
+
+- 📦 **Databases:** SQL, NoSQL
+
+- 🌐 **Communication Networks:** Configuration and optimization
 
 - 📫 How to reach me **mgiovani.moreno@gmail.com**
 
-- ⚛️ I’m currently learning **React.js, NoSQL, Flutter**
-
-- 🛜 I know a little about telecommunications networks
-
+<h3>💡 I am always looking for new challenges and opportunities to learn and grow professionally. Check out my repositories and projects, and don't hesitate to contact me to collaborate!</h3>
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
