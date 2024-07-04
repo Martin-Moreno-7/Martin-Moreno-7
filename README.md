@@ -17,6 +17,8 @@
 
 - 🌐 **Communication Networks:** Configuration and optimization
 
+- 🗽 **Ingles Basico - Intermedio**
+
 - 📫 How to reach me **mgiovani.moreno@gmail.com**
 
 <h3>💡 I am always looking for new challenges and opportunities to learn and grow professionally. Check out my repositories and projects, and don't hesitate to contact me to collaborate!</h3>
@@ -29,7 +31,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-      </div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="firebase" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg?plain=1" title="java" alt="java" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg?plain=1" title="git" alt="git" width="40" height="40">
 </div>
 
 ---
